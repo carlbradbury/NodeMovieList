@@ -1,0 +1,10 @@
+{
+  "name": "NodeMovieList",
+  "version": "0.0.0",
+  "description": "NodeMovieList",
+  "main": "server.js",
+  "author": {
+    "name": "carl",
+    "email": ""
+  }
+}
