@@ -30,6 +30,8 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="logger.js" />
+    <Compile Include="msgs.js" />
     <Compile Include="server.js" />
     <Content Include="package.json" />
     <Content Include="README.md" />
